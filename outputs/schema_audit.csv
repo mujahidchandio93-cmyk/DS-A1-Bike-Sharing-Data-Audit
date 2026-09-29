@@ -1,0 +1,17 @@
+column,dtype,non_null,unique_values
+instant,int64,731,731
+dteday,object,731,731
+season,int64,731,4
+yr,int64,731,2
+mnth,int64,731,12
+holiday,int64,731,2
+weekday,int64,731,7
+workingday,int64,731,2
+weathersit,int64,731,3
+temp,float64,731,499
+atemp,float64,731,690
+hum,float64,731,595
+windspeed,float64,731,650
+casual,int64,731,606
+registered,int64,731,679
+cnt,int64,731,696

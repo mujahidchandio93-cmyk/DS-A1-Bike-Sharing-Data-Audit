@@ -1,0 +1,16 @@
+column,min,max
+instant,1.0,731.0
+season,1.0,4.0
+yr,0.0,1.0
+mnth,1.0,12.0
+holiday,0.0,1.0
+weekday,0.0,6.0
+workingday,0.0,1.0
+weathersit,1.0,3.0
+temp,0.0591304,0.861667
+atemp,0.0790696,0.840896
+hum,0.0,0.9725
+windspeed,0.0223917,0.507463
+casual,2.0,3410.0
+registered,20.0,6946.0
+cnt,22.0,8714.0
